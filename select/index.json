@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "Bloom the smile, Bloom the dream!",
+  "base_artist": "蓮ノ空女学院スクールアイドルクラブ",
+  "createdAt": "2026-01-03T06:07:23.701006Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bloom the smile, Bloom the dream!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": true,
+      "path": "select/01_Bloom_the_smile,_Bloom_the_dream!_蓮ノ空女学院スクールアイドルクラブ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Bloom the smile, Bloom the dream!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ (楡井希実, 野中ここな, 花宮初奈, 佐々木琴子, 菅叶和, 月音こな)",
+      "has_synced": true,
+      "path": "select/02_Bloom_the_smile,_Bloom_the_dream!_蓮ノ空女学院スクールアイドルクラブ_(楡井希実,_野中ここな,_花宮初奈,_佐々木琴子,_菅叶和,_月音こな).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bloom the smile, Bloom the dream! (Off Vocal)",
+      "artist": "Hasu no Sora Jogakuin School Idol Club",
+      "has_synced": false,
+      "path": "select/03_Bloom_the_smile,_Bloom_the_dream!_(Off_Vocal)_Hasu_no_Sora_Jogakuin_School_Idol_Club.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bloom the smile, Bloom the dream!",
+      "artist": "蓮ノ空女学院スクールアイドルクラブ",
+      "has_synced": false,
+      "path": "select/pl_01_Bloom_the_smile,_Bloom_the_dream!_蓮ノ空女学院スクールアイドルクラブ.txt"
+    }
+  ]
+}
